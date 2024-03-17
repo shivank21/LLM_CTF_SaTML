@@ -1,1 +1,2 @@
-Defence.py was the submitted filter
+# Defences 
+A useful way of defending our model from outputting known secrets is by using [LLM Guard](https://github.com/protectai/llm-guard?tab=readme-ov-file), specifically [ban_substrings](https://llm-guard.com/output_scanners/ban_substrings/) by adding them into the BanSubstrings class of llm-guard
