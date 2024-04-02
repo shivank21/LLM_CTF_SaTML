@@ -1,6 +1,6 @@
 # LLM_CTF_SaTML
 
-This repository contains all the work that is there our team did for the Large Language Model Capture-the-Flag (LLM CTF) Competition @ SaTML 2024. The aim of the competition was to find out whether simple prompting and filtering mechanisms can make LLM applications robust to prompt injection and extraction.
+This repository contains all the work our team put into the Large Language Model Capture-the-Flag (LLM CTF) Competition @ SaTML 2024. The competition's goal was to explore how basic prompting and filtering techniques could enhance the resilience of LLM applications against prompt injection and extraction.
 
 ## Competition Overview
 
